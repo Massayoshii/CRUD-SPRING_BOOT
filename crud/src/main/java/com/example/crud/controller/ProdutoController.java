@@ -1,8 +1,8 @@
-package controller;
+package com.example.crud.controller;
 
-import entity.Produto;
+import com.example.crud.entity.Produto;
 import org.springframework.web.bind.annotation.*;
-import service.ProdutoService;
+import com.example.crud.service.ProdutoService;
 
 import java.util.List;
 

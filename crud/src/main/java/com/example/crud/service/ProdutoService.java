@@ -1,8 +1,8 @@
-package service;
+package com.example.crud.service;
 
-import entity.Produto;
+import com.example.crud.entity.Produto;
 import org.springframework.stereotype.Service;
-import repository.ProdutoRepository;
+import com.example.crud.repository.ProdutoRepository;
 
 import java.util.List;
 import java.util.Optional;
